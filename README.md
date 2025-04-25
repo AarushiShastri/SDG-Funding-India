@@ -22,26 +22,26 @@ The analysis leverages two authoritative datasets from AidData, capturing both p
 ### Financing to the SDGs Dataset (2000–2013)
 - https://www.aiddata.org/data/financing-to-the-sdgs-dataset
   
-- **Summary**
+- ##**Summary:**
 - Provides project-level data on estimated Official Development Assistance (ODA) commitments to the 17 Sustainable Development Goals (SDGs) from 2000 to 2013.
 - Tracking more than $1.5 trillion in financing cross-walked to the SDGs from 1.2 million ODA projects in AidData's Core Research Release 3.1.
   
-- **Citation**:
+- ##**Citation**:
 - Sethi, T., Custer, S., Turner, J., Sims, J., DiLorenzo, M., & Latourell, R. (2017). Realizing Agenda 2030: Will donor dollars and country priorities align with global goals? Williamsburg, VA: AidData at the College of William & Mary.
   
-- **Date Published:**
+- ##**Date Published:**
 - November 6, 2017
 
 ### Financing the 2030 Agenda Dataset (2010–2021)
 - https://www.aiddata.org/data/financing-the-2030-agenda-for-sustainable-development-version-1-0
   
-- **Summary:**
+- ##**Summary:**
 - Disbursements from 157 DAC and non-DAC donors between 2010 and 2021 as captured by the OECD CRS Database. Aggregated by year, donor, and recipient.
 
-- **Citation:**
+- ##**Citation:**
 - Burgess, B., Bengtson, A., and B. Lautenslager. (2023). Financing the 2030 Agenda for Sustainable Development, Version 1.0. Williamsburg, VA. AidData. Accessed at http://aiddata.org/sdg
 
-- **Date Published:**
+- ##**Date Published:**
 - October 16, 2023
 
 ## Methodology

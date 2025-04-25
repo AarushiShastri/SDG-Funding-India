@@ -78,30 +78,6 @@ We combined the two datasets and filtered for India as the recipient. All transf
 
 ---
 
-## 🧾 Repository Structure
-
-```
-SDG-Funding-India-PowerBI/
-│
-├── data/
-│   ├── raw/
-│   │   ├── 2000-2009 FOR REFINING PURPOSES.xlsx
-│   │   ├── for summarization.xlsx
-│   ├── processed/
-│   │   └── 2000–2021 INDIA SDG FUNDING BY ORGANIZATION.xlsx
-│
-├── scripts/
-│   └── preprocess_sdgs_funding_data.py
-│
-├── dashboard/
-│   └── SDG_Funding_India_Dashboard.pbix
-│
-├── README.md
-└── requirements.txt (optional)
-```
-
----
-
 ## 💡 Outcomes
 
 - Identified India’s top development partners and their preferred SDGs.

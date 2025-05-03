@@ -1,11 +1,9 @@
 # SDG Funding Patterns Analysis for India (2000–2021)
 
-## Authors
-**Aarushi Shastri**
-**Eeshanya Shahjee**  
+## Author
+**Aarushi Shastri**  
 Bharati Vidyapeeth (Deemed to be University), College of Engineering, Pune  
-Department of Computer Science and Business Systems  
-**Faculty Mentor**: Prof. Bindu Garg
+Department of Computer Science and Business Systems
 
 ## Project Description
 This project presents a comprehensive data visualization of Official Development Assistance (ODA) directed toward the Sustainable Development Goals (SDGs) in India from 2000 to 2021. Using Power BI, Python, and Excel, we developed an interactive, multi-page dashboard to analyze financial flows from global donors to India's SDG-aligned development efforts.
